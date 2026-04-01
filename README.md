@@ -5,7 +5,7 @@ Dự án kiểm thử thủ công cho chức năng đăng nhập nhằm đảm b
 
 ## Nội dung
 - Test Plan
-- Test Cases( 20+ test cases covering functional & security testing)
+- Test Cases
 - Bug Reports
 
 ## Công cụ
@@ -16,6 +16,8 @@ Dự án kiểm thử thủ công cho chức năng đăng nhập nhằm đảm b
 - Viết test case
 - Báo lỗi (bug report)
 - Phân tích hệ thống
-
+- 20+ test cases (functional + security)
+- Bug reports with severity & priority
+  
 ## Tác giả
 Phạm Bích Trâm
