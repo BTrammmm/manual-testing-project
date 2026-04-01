@@ -5,7 +5,7 @@ Dự án kiểm thử thủ công cho chức năng đăng nhập nhằm đảm b
 
 ## Nội dung
 - Test Plan
-- Test Cases
+- Test Cases( 20+ test cases covering functional & security testing)
 - Bug Reports
 
 ## Công cụ
