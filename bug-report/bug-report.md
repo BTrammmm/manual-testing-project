@@ -17,3 +17,7 @@
 - Expected: Hiển thị lỗi
 - Actual: Không có gì
 - Severity: Medium
+  
+## BUG03
+- Title: Cho phép SQL Injection khi login
+- Severity: Critical
